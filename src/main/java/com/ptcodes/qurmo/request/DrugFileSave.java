@@ -21,7 +21,7 @@ public class DrugFileSave {
 
     public static Response saveDrugFile(List<DrugDocument> drugDocumentList) {
 
-        try (MongoClient client = MongoClients.create()) {
+        try (MongoClient client = MongoClients.create("mongodb+srv://msf:123@cluster0.hi676sp.mongodb.net/?retryWrites=true&w=majority")) {
 
             System.out.println("Trying connecting collection mongQur, mongoClientId => " + client);
             MongoCollection<Document> collection = client.getDatabase("mongQur").getCollection("finaltest");
