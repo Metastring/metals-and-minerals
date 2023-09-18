@@ -33,9 +33,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-![alt text](https://drive.google.com/file/d/14I_z3sNIy-vso2gcOYisYml2Q-970-XS/view?usp=sharing)
-![alt text](https://drive.google.com/file/d/1U7lknKmWFpIZVfCYqX6TODqlXLa2HVBr/view?usp=sharing)
-![alt text](https://drive.google.com/file/d/1eEoVhPOFQEaNiBniTdrn1CZ_kkBG1Vf5/view?usp=sharing)
-![alt text](https://drive.google.com/file/d/1fAXudFxEZXIvAHq1xUF5pnu7ZXI2SS41/view?usp=sharing)
-![alt text](https://drive.google.com/file/d/1mit2Sz0pJviQ3dVJW7Obbny-7f7PZJAK/view?usp=sharing)
-![alt text](https://drive.google.com/file/d/1DGwZ48ZiovUSXqGwXSnG_dpjVA4Tr-pK/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/14I_z3sNIy-vso2gcOYisYml2Q-970-XS/view?usp=sharing?raw=tru)
+![alt text](https://drive.google.com/file/d/1U7lknKmWFpIZVfCYqX6TODqlXLa2HVBr/view?usp=sharing?raw=tru)
+![alt text](https://drive.google.com/file/d/1eEoVhPOFQEaNiBniTdrn1CZ_kkBG1Vf5/view?usp=sharing?raw=tru)
+![alt text](https://drive.google.com/file/d/1fAXudFxEZXIvAHq1xUF5pnu7ZXI2SS41/view?usp=sharing?raw=tru)
+![alt text](https://drive.google.com/file/d/1mit2Sz0pJviQ3dVJW7Obbny-7f7PZJAK/view?usp=sharing?raw=tru)
+![alt text](https://drive.google.com/file/d/1DGwZ48ZiovUSXqGwXSnG_dpjVA4Tr-pK/view?usp=sharing?raw=tru)
