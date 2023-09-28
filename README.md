@@ -1,4 +1,4 @@
-# qurmo-schema-demo
+# Metastring - Metals-and-Minerals
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
